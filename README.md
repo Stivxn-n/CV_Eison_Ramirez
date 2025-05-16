@@ -1,29 +1,28 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Eison Stiven Ramirez Vasquez
+**Profesión:** Tecnologo de analisis y desarrollo de sotfware
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [eison2019vasquez@gmail.com](eison2019vasquez@gmail.com)
+
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### *Sena* _(2025 - Actualidad)_
+- Programador De Software
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Bachillerato** _(2024)_
+- Tecnico en agropecuarios y ecologicos
+- Cursos en sistemas avanzados
+
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Matematicas**
+- **Formatear equipos**
+- **Office basico**
 
 ---
 
